@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "@tensorflow-models/handpose": "^0.1.0",
+    "@tensorflow/tfjs": "^4.20.0",
+    "npm": "^10.8.2",
+    "react-webcam": "^7.2.0"
+  }
+}
